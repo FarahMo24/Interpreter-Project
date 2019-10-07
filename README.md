@@ -1,7 +1,7 @@
 # CSC 413 - Project Two - The Interpreter
 
-## Student Name  : Name here
+## Student Name  : Mohamed Farah
 
-## Student ID    : ID here
+## Student ID    : 918378258
 
-## Student Email : Email here
+## Student Email : mfarah@mail.sfsu.edu
